@@ -3,9 +3,7 @@
 # agentic-coding-claude-ch10-desktop
 
 ### Lab 2
-Ah, that is completely my bad—I overcomplicated it in my last message! Looking at your screen, you don't actually need to change a dropdown toggle.
 
-Because you are using the **Claude Desktop app** and it is already pointing to your local repository folder (`agentic-coding-claude... main`), **it is already running completely locally by default.**
 
 To do parallel work right now from this exact screen:
 
